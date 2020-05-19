@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "243066147428",
+    "firebase_url": "https://cole-brew-crew.firebaseio.com",
+    "project_id": "cole-brew-crew",
+    "storage_bucket": "cole-brew-crew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243066147428:android:98f90f8302117d36998571",
+        "android_client_info": {
+          "package_name": "com.cole.brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243066147428-9uauvfha8aol7mh6lg5u6atnidafao01.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaDvyXnuYTJCjHrszOpmc9P_alHPBHWDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243066147428-9uauvfha8aol7mh6lg5u6atnidafao01.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
